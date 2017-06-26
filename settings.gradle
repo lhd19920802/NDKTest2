@@ -1,1 +1,1 @@
-include ':app', ':ccalljava'
+include ':app', ':ccalljava', ':meitu', ':guolu'
